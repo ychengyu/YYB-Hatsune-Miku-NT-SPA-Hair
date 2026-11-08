@@ -1,0 +1,23 @@
+CUSTOM NON-COMMERCIAL LICENSE & TERMS OF USE
+
+Copyright (c) 2026
+
+This repository contains configurations, shader modifications, and textures intended for MikuMikuDance (MMD) non-commercial artistic creations.
+
+By downloading, copying, or using the files contained herein, you agree to the following terms:
+
+1. NON-COMMERCIAL USE ONLY
+   You may NOT use this repository, or any derivative works thereof, for any commercial purposes, monetization, advertising, or paid commissions without explicit prior written permission from all respective rights holders.
+
+2. INTELLECTUAL PROPERTY & ATTRIBUTION
+   - Character likeness "Hatsune Miku" (初音ミク) is © Crypton Future Media, INC. and subject to the Piapro Character License.
+   - Base 3D model assets and original textures are created by YYB (三目YYB).
+   - Core shader is Ray-MMD by Rui.
+   - SJ_Matcap extension shader is by Sanjin Luohewu (三金络合物).
+   - In all public renders, videos, or derived materials, you MUST provide proper credits to the above creators.
+
+3. REDISTRIBUTION
+   Redistribution of original texture maps and core shader files as a standalone asset pack without prior consent is prohibited.
+
+4. DISCLAIMER
+   THE FILES ARE PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY.
