@@ -35,7 +35,7 @@
 | **Model / Textures** | **三目YYB** | YYB 式初音未來 NT 模型原始貼圖與 UV 對應。 |
 | **Shader Core** | **Rui** | [Ray-MMD](https://github.com/ray-cast/ray-mmd) (Physically-Based Rendering for MMD)。 |
 | **Matcap Extension** | **三金络合物** | Ray用乘算Sph材質 // SJ_Matcap ver 1.1(152)。 |
-| **Matcap Texture** | **Gemstone14** | 寶石球高光反射貼圖。 |
+| **Matcap Texture** | **花瓣** | 寶石球高光反射貼圖。 |
 
 ---
 
